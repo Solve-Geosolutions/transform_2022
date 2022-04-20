@@ -81,10 +81,7 @@ If not, please follow Matt Hall's video tutorial from Transform2020: [youtube in
 **Create the `t22-mon-ml-models` conda environment:**
 
 1. Download the `environment.yml` file from
-   [here](https://github.com/Solve-Geosolutions/transform_2022/environment.yml)
-   (right-click and select "Save page as" or similar)
-1. Make sure that the file is called `environment.yml`. Windows sometimes adds a
-   `.txt` to the end, which you should remove
+   [here](https://drive.google.com/file/d/1asIZ_M77MbhcL-8sYqwPzWsURleHqBSd/view?usp=sharing)
 1. Open a terminal (*Anaconda Prompt* if you are running Windows). The
    following steps should be done in the terminal
 1. Navigate to the folder that has the downloaded environment file
