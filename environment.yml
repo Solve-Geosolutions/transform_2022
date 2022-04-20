@@ -1,0 +1,16 @@
+name: t22-mon-ml-models
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.8.*
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - tqdm
+  # geospatial libraries
+  - geopandas
+  - rasterio
+  # ML libraries
+  - scikit-learn
+  - imbalanced-learn
