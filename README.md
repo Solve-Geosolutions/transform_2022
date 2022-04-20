@@ -28,7 +28,7 @@ Make sure you've done these things **before the tutorial on Monday**:
 In this tutorial we’ll run a fairly basic random forest prospectivity analysis
 workflow applied to tin-tungsten (Sn-W) deposits in northeastern Tasmania. We'll 
 use open data sets provided by Mineral Resources Tasmania and Geoscience Australia, 
-all of which are available to download from our public [Google Drive](https://drive.google.com/file/d/1GOwI3vlmpiEhbFVIEoAPCrJkPdfIxPhD/view?usp=sharing). The roadmap for the tutorial is as follows:
+all of which are available to download from our public [Google Drive](https://drive.google.com/file/d/1ahrYZlvnrZuSdDrwEbhajFrofC3VQPek/view?usp=sharing). The roadmap for the tutorial is as follows:
 
   - Load and inspect data sets
       - mineral occurrence point data sets with *geopandas*
@@ -93,7 +93,7 @@ If not, please follow Matt Hall's video tutorial from Transform2020: [youtube in
 
 ### Step 3
 
-1. Download the zipped data set from our public [Google drive](https://drive.google.com/file/d/1GOwI3vlmpiEhbFVIEoAPCrJkPdfIxPhD/view?usp=sharing), this shoud look like the following screenshot
+1. Download the zipped data set from our public [Google drive](https://drive.google.com/file/d/1ahrYZlvnrZuSdDrwEbhajFrofC3VQPek/view?usp=sharing), this shoud look like the following screenshot
 
 <img src="assets/download_data.png" style="width: 400px; margin-left: 20px" />
 
