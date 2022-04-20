@@ -49,6 +49,7 @@ all of which are available to download from our public [Google Drive](https://dr
 - Point data sets are handled with [geopandas](https://geopandas.org/), a [pandas](https://pandas.pydata.org/)-like library for vector GIS processing
 - [Rasterio](https://rasterio.readthedocs.io/) is used to read and write gridded raster data sets
 - The [scikit-learn](https://scikit-learn.org/stable/) implementation of the [random forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) algorithm is used for all modelling
+- Class stratification in modelling procedures use the [imbalanced-learn](https://imbalanced-learn.org/stable/) library
 
 ---
 ## Setup
