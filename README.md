@@ -131,7 +131,7 @@ This tutorial borrowed HEAVILY from Santiago Soler, Andrea Balza Morales and Agu
 
 All data presented in this tutorial were derived from open data sets made available through [Mineral Resources Tasmania](https://www.mrt.tas.gov.au/) and [Geoscience Australia](https://www.ga.gov.au/).
 
-**LICENCE CONDITIONS**
+**LICENSE CONDITIONS**
 
 By exporting this data you accept and comply with the terms and conditions set out below:
 
