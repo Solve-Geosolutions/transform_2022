@@ -10,7 +10,6 @@ Instructors:
 [Thomas Ostersen](https://www.linkedin.com/in/thomasostersen/) and
 [Tom Carmichael](https://www.linkedin.com/in/thomas-carmichael-b0761242/)
 
-
 ## BEFORE THE TUTORIAL
 
 Make sure you've done these things **before the tutorial on Monday**:
@@ -50,6 +49,12 @@ all of which are available to download from our public [Google Drive](https://dr
 - [Rasterio](https://rasterio.readthedocs.io/) is used to read and write gridded raster data sets
 - The [scikit-learn](https://scikit-learn.org/stable/) implementation of the [random forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) algorithm is used for all modelling
 - Class stratification in modelling procedures use the [imbalanced-learn](https://imbalanced-learn.org/stable/) library
+
+## Youtube Video
+
+A full recording of the tutorial is available on YouTube here:
+
+   [![Tutorial: Machine learning models for geoscience](https://img.youtube.com/vi/C4YvnLMzYDc/0.jpg)](https://www.youtube.com/watch?v=C4YvnLMzYDc)
 
 ---
 ## Setup
